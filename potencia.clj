@@ -1,0 +1,1 @@
+(defn mult-square [x] (* x x))
